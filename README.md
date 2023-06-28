@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrekong
 - 👀 I’m interested in web development and app development 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, JAVA and Python
+- 🌱 I’m currently learning HTML/CSS, JavaScript, JAVA and Flutter
 - 💞️ I’m looking to collaborate on website and app development
 - 📫 How to reach me ... ekongunyime254@gmail.com_
 
